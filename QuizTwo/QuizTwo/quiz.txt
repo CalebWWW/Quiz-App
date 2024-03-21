@@ -1,0 +1,6 @@
+Is Jim Davis the creator of Garfield    true    Jim Davis created Garfield in 1988
+Jim Davis is from Indiana   true    Davis is a proud Hoosier
+Jim Davis loves John Arbuckle   false   The most popular focus of any given Garfield comic strip is dunking on John for various reasons
+Does Jim Davis self impose himself on John Arbukle  true    John is based off of Davis' own life, they both share the same proffession and passions
+Jim Davis has talent    false   Jim Davis has always, and will always, have no talent
+
